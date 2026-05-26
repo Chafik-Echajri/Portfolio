@@ -1,0 +1,71 @@
+[
+  {
+    "id": "1",
+    "title": "Kick Boxing Sport",
+    "description": "Kickboxing is a dynamic combat sport combining punches and kicks, improving strength, discipline, and fitness, inspired by famous fighters and practiced worldwide for competition and self-defense.",
+    "image": "assets/images/kick.png",
+    "githubUrl": "https://github.com/Chafik-Echajri/kick.git",
+    "liveDemoAvailable": true,
+    "liveDemoUrl": "https://chafik-echajri.github.io/kick/",
+    "tags": ["Web", "Front End"]
+  },
+  
+  {
+    "id": "2",
+    "title": "Quiz Game",
+    "description": "Quiz Game is an interactive web game that tests knowledge through fun questions, improves thinking skills, and challenges players across different topics with simple, engaging gameplay.",
+    "image": "assets/images/quiz.png",
+    "githubUrl": "https://github.com/Chafik-Echajri/Quiz-project.git",
+    "liveDemoAvailable": true,
+    "liveDemoUrl": "https://chafik-echajri.github.io/Quiz-project/",
+    "tags": ["Web", "Front End"]
+  },
+
+  
+  {
+    "id": "3",
+    "title": "business card",
+    "description": "A full-stack e-commerce solution with user authentication, product management, shopping cart, and payment integration.",
+    "image": "assets/images/business-card.png",
+    "githubUrl": "https://github.com/Chafik-Echajri/business-card.git",
+    "liveDemoAvailable": true,
+    "liveDemoUrl": "https://chafik-echajri.github.io/business-card/",
+    "tags": ["Web", "Front End"]
+  },
+
+
+  {
+    "id": "4",
+    "title": "Tic-Tac-Toe",
+    "description": "Tic-Tac-Toe is a simple strategy game where two players take turns placing symbols, aiming to align three marks in a row using logic, focus, and quick decision-making.",
+    "image": "assets/images/Tic-Tac-Toe.png",
+    "githubUrl": "https://github.com/Chafik-Echajri/Tic-Tac-Toe.git",
+    "liveDemoAvailable": true,
+    "liveDemoUrl": "https://chafik-echajri.github.io/Tic-Tac-Toe/",
+    "tags": ["Web", "Front End"]
+  },
+
+
+  {
+    "id": "5",
+    "title": "Snake Game",
+    "description": "Snake is a classic arcade game where players control a growing snake, collect food, and avoid collisions, testing reflexes, focus, and strategic movement to achieve the highest score.",
+    "image": "assets/images/Snake.png",
+    "githubUrl": "https://github.com/Chafik-Echajri/Snake-Game.git",
+    "liveDemoAvailable": true,
+    "liveDemoUrl": "https://chafik-echajri.github.io/Snake-Game/",
+    "tags": ["Web", "Front End"]
+  },
+
+
+  {
+    "id": "6",
+    "title": "Super Market",
+    "description": "A supermarket app that helps users browse products, compare prices, manage shopping lists, and order essentials easily, offering a fast, secure, and convenient shopping experience anytime, anywhere.",
+    "image": "assets/images/super-market.jpg",
+    "githubUrl": "https://github.com/Chafik-Echajri/super-market.git",
+    "liveDemoAvailable": false,
+    "liveDemoUrl": "",
+    "tags": ["Web", "Front End"]
+  }
+]

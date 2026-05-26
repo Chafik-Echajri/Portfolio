@@ -1,0 +1,44 @@
+[
+  {
+    "institution": "Algorithmics school",
+    "program": "Certificate",
+    "startDate": "2024",
+    "endDate": "2025",
+    "location": "maroc, Beni Mellal",
+    "notes": [
+      "Python Start 2St year"
+    ]
+  },
+ 
+  {
+    "institution": "Moulay Rachid",
+    "program": "bachelier",
+    "startDate": "2023",
+    "endDate": "2024",
+    "location": "maroc, kasba tadla",
+    "notes": [
+      "science vie et terre"
+    ]
+  },
+  {
+    "institution": "Association El Hassania",
+    "program": "attestation",
+    "startDate": "2023",
+    "endDate": "2024",
+    "location": "maroc, kasba tadla",
+    "notes":[
+      "-Ceinture Verte Kick Boxing - Muay Thai - Full Contact"
+    ]
+  },
+
+  {
+    "institution": "Algorithmics school",
+    "program": "Certificate",
+    "startDate": "2023",
+    "endDate": "2024",
+    "location": "maroc, Beni Mellal",
+    "notes": [
+      "Python Start 1St year"
+    ]
+  }
+]
