@@ -6,7 +6,7 @@
     "image": "assets/images/kick.png",
     "githubUrl": "https://github.com/Chafik-Echajri/kick.git",
     "liveDemoAvailable": true,
-    "liveDemoUrl": "https://chafik-echajri.github.io/kick/",
+    "liveDemoUrl": "https://chafik-echajri.github.io/Kick-Boxing/",
     "tags": ["Web", "Front End"]
   },
   
@@ -57,9 +57,19 @@
     "tags": ["Web", "Front End"]
   },
 
-
   {
     "id": "6",
+    "title": "Restaurant Chafik",
+    "description": "A modern restaurant website showcasing delicious menu items, seamless online ordering, responsive design, and an engaging user experience.",
+    "image": "assets/images/Restaurant.png",
+    "githubUrl": "https://github.com/Chafik-Echajri/Restorant-Chafik..git",
+    "liveDemoAvailable": true,
+    "liveDemoUrl": "https://chafik-echajri.github.io/Restorant-Chafik./",
+    "tags": ["Web", "Front End"]
+  },
+
+  {
+    "id": "7",
     "title": "Super Market",
     "description": "A supermarket app that helps users browse products, compare prices, manage shopping lists, and order essentials easily, offering a fast, secure, and convenient shopping experience anytime, anywhere.",
     "image": "assets/images/super-market.jpg",
