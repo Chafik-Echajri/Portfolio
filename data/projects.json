@@ -21,21 +21,8 @@
     "tags": ["Web", "Front End"]
   },
 
-  
   {
     "id": "3",
-    "title": "business card",
-    "description": "A full-stack e-commerce solution with user authentication, product management, shopping cart, and payment integration.",
-    "image": "assets/images/business-card.png",
-    "githubUrl": "https://github.com/Chafik-Echajri/business-card.git",
-    "liveDemoAvailable": true,
-    "liveDemoUrl": "https://chafik-echajri.github.io/business-card/",
-    "tags": ["Web", "Front End"]
-  },
-
-
-  {
-    "id": "4",
     "title": "Tic-Tac-Toe",
     "description": "Tic-Tac-Toe is a simple strategy game where two players take turns placing symbols, aiming to align three marks in a row using logic, focus, and quick decision-making.",
     "image": "assets/images/Tic-Tac-Toe.png",
@@ -47,7 +34,7 @@
 
 
   {
-    "id": "5",
+    "id": "4",
     "title": "Snake Game",
     "description": "Snake is a classic arcade game where players control a growing snake, collect food, and avoid collisions, testing reflexes, focus, and strategic movement to achieve the highest score.",
     "image": "assets/images/Snake.png",
@@ -58,7 +45,7 @@
   },
 
   {
-    "id": "6",
+    "id": "5",
     "title": "Restaurant Chafik",
     "description": "A modern restaurant website showcasing delicious menu items, seamless online ordering, responsive design, and an engaging user experience.",
     "image": "assets/images/Restaurant.png",
@@ -69,7 +56,7 @@
   },
 
   {
-    "id": "7",
+    "id": "6",
     "title": "Super Market",
     "description": "A supermarket app that helps users browse products, compare prices, manage shopping lists, and order essentials easily, offering a fast, secure, and convenient shopping experience anytime, anywhere.",
     "image": "assets/images/super-market.jpg",
